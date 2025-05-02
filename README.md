@@ -10,7 +10,7 @@ BETA - this is still under active development and is used to show my coding work
 - [🚀 Features](#-features)
 - [📦 Requirements](#-requirements)
 - [🔧 Setup Instructions](#-setup-instructions)
-- [💡 Roadmap of Folder/Directory Structure](#-roadmap-of-folder/directory-structure)
+- [💡 Roadmap of Directory Structure](#-roadmap-of-directory-structure)
 - [🏃‍♂️ Starting and Stopping the Application](#-starting-and-stopping-the-application)
 - [🛠 Tech Stack](#-tech-stack)
 - [🔧 Installation](#-installation)
@@ -66,7 +66,7 @@ Users can create an account that resolves around their dog. Each day a daily pro
 
     2. [Install Tech Stack Dependencies](#installation)
 
-## 💡 Roadmap of Folder/Directory Structure
+## 💡 Roadmap of Directory Structure
 
 **server.js**  - main starting point
 
