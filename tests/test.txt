@@ -1,0 +1,4 @@
+FUTURE
+
+Create unit tests for back end 
+for front end use selenium to click through the site and make sure it is working well

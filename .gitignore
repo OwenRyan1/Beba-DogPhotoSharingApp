@@ -1,0 +1,6 @@
+server/.env
+.vscode
+.DS_Store
+node_modules/
+*.log
+*.env
