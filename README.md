@@ -10,10 +10,10 @@ BETA - this is still under active development and is used to show my coding work
 - [🚀 Features](#-features)
 - [📦 Requirements](#-requirements)
 - [🔧 Setup Instructions](#-setup-instructions)
-- [💡 Roadmap of Folder/Directory Structure](#-roadmap-of-folderdirectory-structure)
+- [💡 Roadmap of Folder/Directory Structure](#-roadmap-of-folder/directory-structure)
 - [🏃‍♂️ Starting and Stopping the Application](#-starting-and-stopping-the-application)
 - [🛠 Tech Stack](#-tech-stack)
-- [🔧 Installation](#-installation-1)
+- [🔧 Installation](#-installation)
 - [🎯 Future](#-future)
 
 ## ✨ App Idea 
