@@ -39,8 +39,8 @@ Users can create an account that resolves around their dog. Each day a daily pro
 1. **Clone this repository**
 
    ```bash
-   git clone ADD GITHUB LINK
-   cd benfm-amazon-converter
+   git clone git@github.com:OwenRyan1/Beba-DogPhotoSharingApp.git
+   cd Beba-DogPhotoSharingApp
    ```
 
 2. Go through [Requirements](#Requirements) section
@@ -147,3 +147,4 @@ To run this project, you'll need the following:
     - putting DB on cloud
 3. Tests directory
     - for unit tests
+4. A functional front end to support the backend functionality 
