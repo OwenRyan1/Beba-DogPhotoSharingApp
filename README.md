@@ -5,13 +5,12 @@ BETA - this is still under active development and is used to show my coding work
 
 ## 📚 Table of Contents
 
-- [🎵 Beba - A Dog Photo Sharing Platform](#-beba---a-dog-photo-sharing-platform)
 - [✨ App Idea](#-app-idea)
 - [🚀 Features](#-features)
 - [📦 Requirements](#-requirements)
 - [🔧 Setup Instructions](#-setup-instructions)
 - [💡 Roadmap of Directory Structure](#-roadmap-of-directory-structure)
-- [🏃‍♂️ Starting and Stopping the Application](#-starting-and-stopping-the-application)
+- [🏁 Starting and Stopping the Application](#-starting-and-stopping-the-application)
 - [🛠 Tech Stack](#-tech-stack)
 - [🔧 Installation](#-installation)
 - [🎯 Future](#-future)
@@ -89,7 +88,7 @@ Users can create an account that resolves around their dog. Each day a daily pro
     - small functions to help throughout the backend 
 
 
-## 🏃‍♂️ Starting and Stopping the Application
+## 🏁 Starting and Stopping the Application
 
 - To run the backend, use the following commands:
 
